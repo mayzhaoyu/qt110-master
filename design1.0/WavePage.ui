@@ -1,0 +1,23 @@
+<UI version="4.0" >
+ <class>WavePage</class>
+ <widget class="QWidget" name="WavePage" >
+  <property name="objectName" >
+   <string notr="true">WavePage</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>400</width>
+	<height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>WavePage</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources/>
+ <connections/>
+</UI>
